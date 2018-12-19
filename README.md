@@ -1,4 +1,4 @@
-# CreditCardWebApi
+# CreditCardWebApi and Client app
 
 using ASP.NET Core and EntityFramework Core.
 
